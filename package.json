@@ -1,6 +1,6 @@
 {
-  "homepage": "http://serendipity80-dev.github.io/Movie-APP.git",
   "name": "movie-app",
+  "homepage": "http://serendipity80-dev.github.io/Movie-APP.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
